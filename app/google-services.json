@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854044869589",
+    "firebase_url": "https://popcolor-7c604.firebaseio.com",
+    "project_id": "popcolor-7c604",
+    "storage_bucket": "popcolor-7c604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854044869589:android:58813e9dab4963a74b335c",
+        "android_client_info": {
+          "package_name": "com.example.popcolor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854044869589-binha9llu6pr7kr45ddgb38alqstr7eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBliT3PPS_b_RqtvkIXvui-uZvdbnjG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854044869589-binha9llu6pr7kr45ddgb38alqstr7eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
